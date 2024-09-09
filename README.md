@@ -61,22 +61,23 @@ along with experience in <b>Python programming</b>.
     ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
+<!-- afterwards
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+      ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+      ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+-->
 </p>
 </td>
   <td>
     
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agent47ug&theme=slateorange&show_icons=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vishalgiri1&theme=slateorange&show_icons=true&hide_border=true" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug&theme=slateorange&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgiri1&theme=slateorange&hide_border=true" />
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent47ug&theme=slateorange&layout=compact&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgiri1&theme=slateorange&layout=compact&hide_border=true" />
   <hr>
 </p>
      
