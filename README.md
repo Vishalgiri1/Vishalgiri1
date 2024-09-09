@@ -7,5 +7,7 @@
 </p>
 
 <p align="center">
-  
+<img src="./assests/gifs/hacker.gif" width="40" alt="About">
+<samp>
 </p>
+<p align="center">I’m currently learning Ethical Eacking &  Networking <br> </p>
