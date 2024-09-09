@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi , I'm Vishal Giri</h1>
+  <h1 align="center">Hi , I'm Vishal Giri</h1><img src="./assets/gifs/handwave.gif" width="30" />
 </p>
 
 <p align="center">
