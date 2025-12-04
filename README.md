@@ -19,8 +19,7 @@
 </div>
 <hr>
 <p align="center">
-Hello, I'm Vishal Giri, a final-year undergraduate student at Sinhgad Institute of Technology.
-I'm passionate about creating <b>web pages</b> and
+Hello, I'm Vishal Giri, I'm passionate about creating <b>web pages</b> and
 have a solid foundation in <b>cybersecurity</b> and <b>ethical hacking</b>, 
 along with experience in <b>Python programming</b>.
 
